@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Agroweb">
         <activity
+            android:name=".AgricultorRegister"
+            android:exported="false" />
+        <activity
+            android:name=".AgricultorLogin"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity2"
             android:exported="false" />
         <activity

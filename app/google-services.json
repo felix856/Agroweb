@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443872987693",
+    "project_id": "agroweb-45231",
+    "storage_bucket": "agroweb-45231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443872987693:android:559537b93d096700c686a4",
+        "android_client_info": {
+          "package_name": "com.example.agroweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443872987693-7f6hmb9ee5drkjirh9idpa6ho9ul317t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3MX0JnR-i6M6AB4OwZsdYkFNhAFmvaGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443872987693-7f6hmb9ee5drkjirh9idpa6ho9ul317t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
