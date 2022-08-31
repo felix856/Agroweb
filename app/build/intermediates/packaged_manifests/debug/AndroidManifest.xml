@@ -58,9 +58,6 @@
             android:name="com.example.agroweb.AgricultorLogin"
             android:exported="false" />
         <activity
-            android:name="com.example.agroweb.MainActivity2"
-            android:exported="false" />
-        <activity
             android:name="com.example.agroweb.MainActivity"
             android:exported="true" >
             <intent-filter>

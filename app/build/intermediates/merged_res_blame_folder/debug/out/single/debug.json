@@ -8,12 +8,12 @@
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\layout\\activity_agricultor_register.xml"
     },
     {
-        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",

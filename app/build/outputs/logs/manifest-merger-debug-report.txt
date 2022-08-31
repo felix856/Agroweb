@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-49:12
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\79d69aaf6253c6a6c6337ef87c75d601\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\fc2ec7eb31aa954471df9b866edac013\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\3ecd1491cc7c9c935dc00fa7bb9a5e07\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
@@ -65,20 +65,20 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\felipe_apio-souz
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\9d0b8aee19ce8d07801969001a07e617\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\3b93257badac55e63874c46d08965fe1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\24a005ed86f450bdfb1138a02b673290\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
 		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-49:12
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-49:12
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:11-69
@@ -131,7 +131,7 @@ ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main
 	android:name
 		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:17:22-72
 application
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:19:5-47:19
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:19:5-44:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\79d69aaf6253c6a6c6337ef87c75d601\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\79d69aaf6253c6a6c6337ef87c75d601\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\fc2ec7eb31aa954471df9b866edac013\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -214,28 +214,22 @@ ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main
 		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:34:13-37
 	android:name
 		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:33:13-44
-activity#com.example.agroweb.MainActivity2
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:35:9-37:40
-	android:exported
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:37:13-37
-	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:36:13-42
 activity#com.example.agroweb.MainActivity
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:38:9-46:20
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:35:9-43:20
 	android:exported
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:40:13-36
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:37:13-36
 	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:39:13-41
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:36:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:41:13-45:29
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:42:17-69
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:42:25-66
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:44:17-77
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:44:27-74
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:41:27-74
 uses-sdk
 INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml

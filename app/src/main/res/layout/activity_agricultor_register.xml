@@ -167,7 +167,7 @@
         android:layout_marginTop="20dp"
         android:layout_marginEnd="100dp"
         android:backgroundTint="#FFFFFF"
-        android:onClick="register"
+        android:onClick="trocaTela"
         android:text="Avançar"
         android:textColor="#000000"
         android:textSize="20sp"

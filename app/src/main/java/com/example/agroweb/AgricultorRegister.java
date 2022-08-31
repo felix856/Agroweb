@@ -34,7 +34,8 @@ public class AgricultorRegister extends AppCompatActivity {
         reference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
-                for (DataSnapshot d : snapshot.getChildren()){
+               /*
+               for (DataSnapshot d : snapshot.getChildren()){
                     //percorrer e visualizar se temos um agricultor com cmdv ou email iguais
                     if(d.getValue(Agricultor.class).getCrmv() == Integer.parseInt(crmv.getText().toString()) || d.getValue(Agricultor.class).getEmail().equals(email.getText().toString())){
                         msg("Email ou Crmv já cadastrados");
@@ -52,6 +53,7 @@ public class AgricultorRegister extends AppCompatActivity {
                     }
 
                 }
+                */
             }
 
             @Override
@@ -72,7 +74,7 @@ public class AgricultorRegister extends AppCompatActivity {
         return false;
     }
 
-    public void trocaTela(){
+    public void trocaTela(View view){
         Intent i = new Intent(this, LocalizacaoAgricultor.class);
         startActivity(i);
     }

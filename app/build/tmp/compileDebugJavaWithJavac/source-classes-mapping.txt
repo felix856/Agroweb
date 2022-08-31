@@ -2,12 +2,12 @@ com/example/agroweb/BuildConfig.java
  com.example.agroweb.BuildConfig
 com/example/agroweb/LocalizacaoAgricultor.java
  com.example.agroweb.LocalizacaoAgricultor
-com/example/agroweb/AgricultorLogin.java
- com.example.agroweb.AgricultorLogin
+com/example/agroweb/MainActivity.java
+ com.example.agroweb.MainActivity
 com/example/agroweb/Agricultor.java
  com.example.agroweb.Agricultor
+com/example/agroweb/AgricultorLogin.java
+ com.example.agroweb.AgricultorLogin
 com/example/agroweb/AgricultorRegister.java
  com.example.agroweb.AgricultorRegister
  com.example.agroweb.AgricultorRegister$1
-com/example/agroweb/MainActivity.java
- com.example.agroweb.MainActivity
