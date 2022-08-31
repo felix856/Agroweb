@@ -6,9 +6,9 @@ import com.google.firebase.database.FirebaseDatabase;
 public class Agricultor {
     private Integer crmv;
     private String email;
-    private Integer senha;
+    private String senha;
 
-    public Agricultor(Integer crmv, String email, Integer senha) {
+    public Agricultor(Integer crmv, String email, String senha) {
         this.crmv = crmv;
         this.email = email;
         this.senha = senha;
@@ -33,11 +33,11 @@ public class Agricultor {
         this.email = email;
     }
 
-    public Integer getSenha() {
+    public String getSenha() {
         return senha;
     }
 
-    public void setSenha(Integer senha) {
+    public void setSenha(String senha) {
         this.senha = senha;
     }
 

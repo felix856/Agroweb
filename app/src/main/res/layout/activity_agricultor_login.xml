@@ -118,6 +118,7 @@
         android:layout_marginEnd="100dp"
         android:backgroundTint="#000000"
         android:fontFamily="monospace"
+        android:onClick="cadastrarTela"
         android:text="Cadastrar-se"
         android:textColor="#FFFFFF"
         android:textStyle="bold"
