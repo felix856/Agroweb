@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-36:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\79d69aaf6253c6a6c6337ef87c75d601\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\fc2ec7eb31aa954471df9b866edac013\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\3ecd1491cc7c9c935dc00fa7bb9a5e07\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
@@ -65,73 +65,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\felipe_apio-souz
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\9d0b8aee19ce8d07801969001a07e617\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\3b93257badac55e63874c46d08965fe1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\24a005ed86f450bdfb1138a02b673290\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-46:12
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:2:11-69
-uses-permission#android.permission.INTERNET
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:5:5-66
-MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d921297991127a1911ce60dda4452c52\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d921297991127a1911ce60dda4452c52\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d551a87186fd78d5df625aee710e9d96\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d551a87186fd78d5df625aee710e9d96\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\f68042a809e88f6e041440e2a0ec78ac\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\f68042a809e88f6e041440e2a0ec78ac\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:23:5-67
-	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:5:22-64
-uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:6:5-97
-	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:6:22-95
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:7:5-80
-	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:7:22-78
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:8:5-78
-	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:8:22-76
-uses-feature#0x00020000
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:10:5-12:34
-MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
-MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
-	android:glEsVersion
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:11:9-41
-	android:required
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:12:9-32
-permission#com.example.permission.MAPS_RECEIVE
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:14:5-16:46
-	android:protectionLevel
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:16:9-44
-	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:15:9-59
-uses-permission#com.example.permission.MAPS_RECEIVE
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:17:5-74
-	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:17:22-72
 application
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:19:5-44:19
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:5:5-34:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\79d69aaf6253c6a6c6337ef87c75d601\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\79d69aaf6253c6a6c6337ef87c75d601\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\fc2ec7eb31aa954471df9b866edac013\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -185,51 +137,57 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\felipe_apio-souza\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\c9d68a76d361701b05df318719d7f2c8\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:24:9-35
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:22:9-41
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:23:9-54
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:21:9-43
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:25:9-45
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:11:9-45
 activity#com.example.agroweb.LocalizacaoAgricultor
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:26:9-28:40
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:12:9-14:40
 	android:exported
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:28:13-37
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:27:13-50
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:13:13-50
 activity#com.example.agroweb.AgricultorRegister
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:29:9-31:40
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:31:13-37
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:30:13-47
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:16:13-47
 activity#com.example.agroweb.AgricultorLogin
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:32:9-34:40
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:34:13-37
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:33:13-44
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:19:13-44
 activity#com.example.agroweb.MainActivity
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:35:9-43:20
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:21:9-29:20
 	android:exported
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:37:13-36
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:36:13-41
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:22:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:38:13-42:29
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:39:17-69
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:39:25-66
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:41:17-77
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:41:27-74
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:27:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:31:9-33:57
+	android:resource
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:33:13-54
+	android:name
+		ADDED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:32:13-43
 uses-sdk
 INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml
@@ -382,6 +340,22 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] C:
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\f68042a809e88f6e041440e2a0ec78ac\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:24:5-79
 	android:name
 		ADDED from [com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d921297991127a1911ce60dda4452c52\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d921297991127a1911ce60dda4452c52\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d551a87186fd78d5df625aee710e9d96\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d551a87186fd78d5df625aee710e9d96\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\f68042a809e88f6e041440e2a0ec78ac\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\f68042a809e88f6e041440e2a0ec78ac\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:26:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:28:9-34:19
@@ -404,6 +378,12 @@ ADDED from [com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-s
 		ADDED from [com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:34:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:33:17-109
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
 queries
 ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
 package#com.google.android.apps.maps
