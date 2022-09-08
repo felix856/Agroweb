@@ -39,6 +39,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.Agroweb" >
         <activity
+            android:name="com.example.agroweb.RestauranteLogin"
+            android:exported="false" />
+        <activity
+            android:name="com.example.agroweb.RestauranteRegister"
+            android:exported="false" />
+        <activity
             android:name="com.example.agroweb.LocalizacaoAgricultor"
             android:exported="false" />
         <activity

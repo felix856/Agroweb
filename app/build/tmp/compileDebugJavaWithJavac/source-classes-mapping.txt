@@ -1,13 +1,20 @@
+com/example/agroweb/Restaurante.java
+ com.example.agroweb.Restaurante
 com/example/agroweb/BuildConfig.java
  com.example.agroweb.BuildConfig
-com/example/agroweb/Agricultor.java
- com.example.agroweb.Agricultor
 com/example/agroweb/LocalizacaoAgricultor.java
  com.example.agroweb.LocalizacaoAgricultor
 com/example/agroweb/AgricultorLogin.java
  com.example.agroweb.AgricultorLogin
+com/example/agroweb/Agricultor.java
+ com.example.agroweb.Agricultor
 com/example/agroweb/AgricultorRegister.java
  com.example.agroweb.AgricultorRegister
  com.example.agroweb.AgricultorRegister$1
+com/example/agroweb/RestauranteRegister.java
+ com.example.agroweb.RestauranteRegister
+ com.example.agroweb.RestauranteRegister$1
 com/example/agroweb/MainActivity.java
  com.example.agroweb.MainActivity
+com/example/agroweb/RestauranteLogin.java
+ com.example.agroweb.RestauranteLogin

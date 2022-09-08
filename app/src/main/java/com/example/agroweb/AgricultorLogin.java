@@ -14,8 +14,8 @@ public class AgricultorLogin extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_agricultor_login);
         getSupportActionBar().hide();
-        crmv = findViewById(R.id.crmvLogin);
-        senha = findViewById(R.id.senhaAgro);
+        crmv = findViewById(R.id.cnpjLogin);
+        senha = findViewById(R.id.senhaRest);
 
     }
 

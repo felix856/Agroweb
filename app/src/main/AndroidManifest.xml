@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Agroweb">
         <activity
+            android:name=".RestauranteLogin"
+            android:exported="false" />
+        <activity
+            android:name=".RestauranteRegister"
+            android:exported="false" />
+        <activity
             android:name=".LocalizacaoAgricultor"
             android:exported="false" />
         <activity

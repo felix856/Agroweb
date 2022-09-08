@@ -2713,6 +2713,8 @@ int id clip_horizontal 0x7f08007f
 int id clip_vertical 0x7f080080
 int id clockwise 0x7f080081
 int id closest 0x7f080082
+int id cnpjLogin 0x7f080208
+int id cnpjRegister 0x7f080207
 int id collapseActionView 0x7f080083
 int id compress 0x7f080084
 int id confirmSenhaRegister 0x7f0801fa
@@ -2726,8 +2728,6 @@ int id continuousVelocity 0x7f08008b
 int id coordinator 0x7f08008c
 int id cos 0x7f08008d
 int id counterclockwise 0x7f08008e
-int id crmvLogin 0x7f08008f
-int id crmvRegister 0x7f0801fb
 int id currentState 0x7f080090
 int id custom 0x7f080091
 int id customPanel 0x7f080092
@@ -2977,8 +2977,8 @@ int id search_voice_btn 0x7f080181
 int id select_dialog_listview 0x7f080182
 int id selected 0x7f080183
 int id selection_type 0x7f080184
-int id senhaAgro 0x7f080185
 int id senhaRegister 0x7f0801fd
+int id senhaRest 0x7f080209
 int id sharedValueSet 0x7f080186
 int id sharedValueUnset 0x7f080187
 int id shortcut 0x7f080188
@@ -3197,6 +3197,8 @@ int layout activity_agricultor_login 0x7f0b001c
 int layout activity_agricultor_register 0x7f0b001d
 int layout activity_localizacao_agricultor 0x7f0b0079
 int layout activity_main 0x7f0b001e
+int layout activity_restaurante_login 0x7f0b007b
+int layout activity_restaurante_register 0x7f0b007a
 int layout custom_dialog 0x7f0b001f
 int layout design_bottom_navigation_item 0x7f0b0020
 int layout design_bottom_sheet_dialog 0x7f0b0021

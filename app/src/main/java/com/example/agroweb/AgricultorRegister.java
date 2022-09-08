@@ -23,7 +23,7 @@ public class AgricultorRegister extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_agricultor_register);
         getSupportActionBar().hide();
-        crmv = findViewById(R.id.crmvRegister);
+        crmv = findViewById(R.id.cnpjRegister);
         email = findViewById(R.id.emailRegister);
         senha = findViewById(R.id.senhaRegister);
         senhaConfirm = findViewById(R.id.confirmSenhaRegister);

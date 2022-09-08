@@ -8,12 +8,16 @@
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\layout\\activity_agricultor_register.xml"
     },
     {
+        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_restaurante_login.xml.flat",
+        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\layout\\activity_restaurante_login.xml"
     },
     {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
@@ -22,6 +26,10 @@
     {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\font_k2d_thin.xml.flat",
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\font\\k2d_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_restaurante_register.xml.flat",
+        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\layout\\activity_restaurante_register.xml"
     },
     {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_agricultor_login.xml.flat",

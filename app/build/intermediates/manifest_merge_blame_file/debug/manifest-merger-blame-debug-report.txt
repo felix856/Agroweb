@@ -46,7 +46,7 @@
 28-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:26:22-107
 29
 30    <application
-30-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:5:5-34:19
+30-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:5:5-40:19
 31        android:allowBackup="true"
 31-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:6:9-35
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -66,160 +66,172 @@
 40-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:11:9-45
 41        <activity
 41-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:12:9-14:40
-42            android:name="com.example.agroweb.LocalizacaoAgricultor"
-42-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:13:13-50
+42            android:name="com.example.agroweb.RestauranteLogin"
+42-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:13:13-45
 43            android:exported="false" />
 43-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:14:13-37
 44        <activity
 44-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:15:9-17:40
-45            android:name="com.example.agroweb.AgricultorRegister"
-45-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:16:13-47
+45            android:name="com.example.agroweb.RestauranteRegister"
+45-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:16:13-48
 46            android:exported="false" />
 46-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:17:13-37
 47        <activity
 47-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:18:9-20:40
-48            android:name="com.example.agroweb.AgricultorLogin"
-48-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:19:13-44
+48            android:name="com.example.agroweb.LocalizacaoAgricultor"
+48-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:19:13-50
 49            android:exported="false" />
 49-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:20:13-37
 50        <activity
-50-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:21:9-29:20
-51            android:name="com.example.agroweb.MainActivity"
-51-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:22:13-41
-52            android:exported="true" >
-52-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:23:13-36
-53            <intent-filter>
-53-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:24:13-28:29
-54                <action android:name="android.intent.action.MAIN" />
-54-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:25:17-69
-54-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:25:25-66
-55
-56                <category android:name="android.intent.category.LAUNCHER" />
-56-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:27:17-77
-56-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:27:27-74
-57            </intent-filter>
-58        </activity>
-59
-60        <meta-data
-60-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:31:9-33:57
-61            android:name="preloaded_fonts"
-61-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:32:13-43
-62            android:resource="@array/preloaded_fonts" />
-62-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:33:13-54
-63
-64        <service
-64-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:29:9-35:19
-65            android:name="com.google.firebase.components.ComponentDiscoveryService"
-65-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:30:13-84
-66            android:directBootAware="true"
-66-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
-67            android:exported="false" >
-67-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:31:13-37
-68            <meta-data
-68-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
-69                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-69-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:33:17-109
-70                android:value="com.google.firebase.components.ComponentRegistrar" />
-70-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:34:17-82
-71            <meta-data
-71-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:31:13-33:85
-72                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-72-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:32:17-139
-73                android:value="com.google.firebase.components.ComponentRegistrar" />
-73-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:33:17-82
+50-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:21:9-23:40
+51            android:name="com.example.agroweb.AgricultorRegister"
+51-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:22:13-47
+52            android:exported="false" />
+52-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:23:13-37
+53        <activity
+53-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:24:9-26:40
+54            android:name="com.example.agroweb.AgricultorLogin"
+54-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:25:13-44
+55            android:exported="false" />
+55-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:26:13-37
+56        <activity
+56-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:27:9-35:20
+57            android:name="com.example.agroweb.MainActivity"
+57-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:28:13-41
+58            android:exported="true" >
+58-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:29:13-36
+59            <intent-filter>
+59-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:30:13-34:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:31:17-69
+60-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:31:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:33:17-77
+62-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:33:27-74
+63            </intent-filter>
+64        </activity>
+65
+66        <meta-data
+66-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:37:9-39:57
+67            android:name="preloaded_fonts"
+67-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:38:13-43
+68            android:resource="@array/preloaded_fonts" />
+68-->C:\Users\felipe_apio-souza\AndroidStudioProjects\Agroweb\app\src\main\AndroidManifest.xml:39:13-54
+69
+70        <service
+70-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:29:9-35:19
+71            android:name="com.google.firebase.components.ComponentDiscoveryService"
+71-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:30:13-84
+72            android:directBootAware="true"
+72-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+73            android:exported="false" >
+73-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:31:13-37
 74            <meta-data
-74-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d921297991127a1911ce60dda4452c52\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
-75                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-75-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d921297991127a1911ce60dda4452c52\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+74-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
+75                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+75-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:33:17-109
 76                android:value="com.google.firebase.components.ComponentRegistrar" />
-76-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d921297991127a1911ce60dda4452c52\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
-77        </service> <!-- Needs to be explicitly declared on P+ -->
-78        <uses-library
-78-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
-79            android:name="org.apache.http.legacy"
-79-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
-80            android:required="false" />
-80-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
-81
-82        <provider
-82-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
-83            android:name="com.google.firebase.provider.FirebaseInitProvider"
-83-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
-84            android:authorities="com.example.agroweb.firebaseinitprovider"
-84-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
-85            android:directBootAware="true"
-85-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
-86            android:exported="false"
-86-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
-87            android:initOrder="100" />
-87-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
-88
-89        <activity
-89-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\80779ee7044043fc5f6cd2d561c6d0c4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-90            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-90-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\80779ee7044043fc5f6cd2d561c6d0c4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-91            android:exported="false"
-91-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\80779ee7044043fc5f6cd2d561c6d0c4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-92            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-92-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\80779ee7044043fc5f6cd2d561c6d0c4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-93
-94        <receiver
-94-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:29:9-33:20
-95            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-95-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:30:13-85
-96            android:enabled="true"
-96-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:31:13-35
-97            android:exported="false" >
-97-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:32:13-37
-98        </receiver>
+76-->[com.google.firebase:firebase-database:20.0.5] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a294c2fe10c94ca1cb850c2d49fc7204\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:34:17-82
+77            <meta-data
+77-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:31:13-33:85
+78                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+78-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:32:17-139
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\76e90f2f20ba02db50df8818bc6a67d0\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:33:17-82
+80            <meta-data
+80-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d921297991127a1911ce60dda4452c52\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+81                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+81-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d921297991127a1911ce60dda4452c52\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\d921297991127a1911ce60dda4452c52\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+83        </service> <!-- Needs to be explicitly declared on P+ -->
+84        <uses-library
+84-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+85            android:name="org.apache.http.legacy"
+85-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+86            android:required="false" />
+86-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\6026faa371640fb7723403b31b76ccf3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+87
+88        <provider
+88-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+89            android:name="com.google.firebase.provider.FirebaseInitProvider"
+89-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+90            android:authorities="com.example.agroweb.firebaseinitprovider"
+90-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+91            android:directBootAware="true"
+91-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+92            android:exported="false"
+92-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+93            android:initOrder="100" />
+93-->[com.google.firebase:firebase-common:20.1.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\a2fb64f462e42fb9715d06c82eb30fd7\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+94
+95        <activity
+95-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\80779ee7044043fc5f6cd2d561c6d0c4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+96            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+96-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\80779ee7044043fc5f6cd2d561c6d0c4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+97            android:exported="false"
+97-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\80779ee7044043fc5f6cd2d561c6d0c4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+98-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\80779ee7044043fc5f6cd2d561c6d0c4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
 99
-100        <service
-100-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:35:9-38:40
-101            android:name="com.google.android.gms.measurement.AppMeasurementService"
-101-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:36:13-84
+100        <receiver
+100-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:29:9-33:20
+101            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+101-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:30:13-85
 102            android:enabled="true"
-102-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:37:13-35
-103            android:exported="false" />
-103-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:38:13-37
-104        <service
-104-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:39:9-43:72
-105            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-105-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:40:13-87
-106            android:enabled="true"
-106-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:41:13-35
-107            android:exported="false"
-107-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:42:13-37
-108            android:permission="android.permission.BIND_JOB_SERVICE" />
-108-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:43:13-69
-109
-110        <meta-data
-110-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b78f155f2b4680d0ecc2fe0bb6f3021a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-111            android:name="com.google.android.gms.version"
-111-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b78f155f2b4680d0ecc2fe0bb6f3021a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-112            android:value="@integer/google_play_services_version" />
-112-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b78f155f2b4680d0ecc2fe0bb6f3021a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-113
-114        <provider
-114-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-115            android:name="androidx.startup.InitializationProvider"
-115-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-116            android:authorities="com.example.agroweb.androidx-startup"
-116-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-117            android:exported="false" >
-117-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-118            <meta-data
-118-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-119                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-119-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-120                android:value="androidx.startup" />
-120-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-121            <meta-data
-121-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b3d621707c065c61016597762f77d106\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-122                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-122-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b3d621707c065c61016597762f77d106\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-123                android:value="androidx.startup" />
-123-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b3d621707c065c61016597762f77d106\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-124        </provider>
-125    </application>
-126
-127</manifest>
+102-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:31:13-35
+103            android:exported="false" >
+103-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:32:13-37
+104        </receiver>
+105
+106        <service
+106-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:35:9-38:40
+107            android:name="com.google.android.gms.measurement.AppMeasurementService"
+107-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:36:13-84
+108            android:enabled="true"
+108-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:37:13-35
+109            android:exported="false" />
+109-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:38:13-37
+110        <service
+110-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:39:9-43:72
+111            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+111-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:40:13-87
+112            android:enabled="true"
+112-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:41:13-35
+113            android:exported="false"
+113-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:42:13-37
+114            android:permission="android.permission.BIND_JOB_SERVICE" />
+114-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\380717c5d301cfe1a216bb58485e120b\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:43:13-69
+115
+116        <meta-data
+116-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b78f155f2b4680d0ecc2fe0bb6f3021a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+117            android:name="com.google.android.gms.version"
+117-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b78f155f2b4680d0ecc2fe0bb6f3021a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+118            android:value="@integer/google_play_services_version" />
+118-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b78f155f2b4680d0ecc2fe0bb6f3021a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+119
+120        <provider
+120-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+121            android:name="androidx.startup.InitializationProvider"
+121-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+122            android:authorities="com.example.agroweb.androidx-startup"
+122-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+123            android:exported="false" >
+123-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+124            <meta-data
+124-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+125                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+125-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+126                android:value="androidx.startup" />
+126-->[androidx.emoji2:emoji2:1.0.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\08602911b00362b2f69d14c71ab1f77f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+127            <meta-data
+127-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b3d621707c065c61016597762f77d106\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+128                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+128-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b3d621707c065c61016597762f77d106\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+129                android:value="androidx.startup" />
+129-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\felipe_apio-souza\.gradle\caches\transforms-3\b3d621707c065c61016597762f77d106\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+130        </provider>
+131    </application>
+132
+133</manifest>

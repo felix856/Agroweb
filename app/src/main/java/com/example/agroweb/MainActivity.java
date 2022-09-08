@@ -22,5 +22,10 @@ Button agro, restaurante;
         startActivity(i);
     }
 
+    public void resTela(View view){
+        Intent i = new Intent(this, RestauranteLogin.class);
+        startActivity(i);
+    }
+
 
 }
