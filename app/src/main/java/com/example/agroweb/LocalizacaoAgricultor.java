@@ -9,16 +9,11 @@ import com.google.android.gms.maps.MapView;
 import com.google.android.gms.maps.OnMapReadyCallback;
 
 public class LocalizacaoAgricultor extends AppCompatActivity {
-    MapView mapView;
-    GoogleMap map;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_localizacao_agricultor);
-        //pedir permissao
-        mapView = (MapView) this.findViewById(R.id.mapView);
-        mapView.onCreate(savedInstanceState);
-        mapView.getMapAsync((OnMapReadyCallback) this);
+        getSupportActionBar().hide();
 
     }
 }

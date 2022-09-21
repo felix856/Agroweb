@@ -20,16 +20,16 @@
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\layout\\activity_restaurante_login.xml"
     },
     {
-        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\font_k2d_thin.xml.flat",
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\font\\k2d_thin.xml"
     },
     {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_restaurante_register.xml.flat",
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\layout\\activity_restaurante_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_agricultor_login.xml.flat",
@@ -56,12 +56,12 @@
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\font_k2d_bold.xml.flat",
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\font\\k2d_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -72,12 +72,12 @@
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\felipe_apio-souza\\AndroidStudioProjects\\Agroweb\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
